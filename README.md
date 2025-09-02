@@ -4,8 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Frontend Developer
 ------------------
 
-Having dedicated the past 1.5 years to web development, I'm committed to ongoing learning and staying at the forefront of the field.
-
+Hello! I'm Kevin Wang'ombe, a passionate Frontend Developer with 1.5 years of experience building engaging and responsive web applications
 * 🌍  I'm based in Nakuru - Kenya
 * ✉️  You can contact me at [kevinwangombe192@gmail.com](mailto:kevinwangombe192@gmail.com)
 * 🧠  I'm learning Python
