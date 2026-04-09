@@ -1,6 +1,5 @@
 # Hi, I'm Kevin 👋
-### Front-end Developer | React | Angular | TypeScript
-
+### Front-end Developer | React | JavaScript | Node.js
 📍 Nakuru, Kenya | Available for Remote Work
 
 ---
@@ -16,16 +15,15 @@
 | Frontend | Styling | Backend | Tools |
 |----------|---------|---------|-------|
 | React.js | TailwindCSS | Node.js | Git/GitHub |
-| Angular | Bootstrap | Python | Vercel/Netlify |
-| TypeScript | CSS3/Sass | REST APIs | Figma |
-| JavaScript | HTML5 |  | VS Code |
+| JavaScript | Bootstrap | REST APIs | Vercel/Netlify |
+| HTML5 | CSS3 | Express.js | VS Code |
 
 ---
 
 ## 🚀 What I Build
 - ✅ Responsive, mobile-first websites
 - ✅ Pixel-perfect implementations from Figma/XD
-- ✅ Fast, accessible (WCAG compliant) web apps
+- ✅ Fast, accessible web apps
 - ✅ Modern UI with clean, maintainable code
 
 ---
