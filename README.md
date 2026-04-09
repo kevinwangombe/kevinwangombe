@@ -38,5 +38,6 @@
 ---
 
 ## 📈 GitHub Stats
-![Kevin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kevinwangombe&show_icons=true&theme=github-dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevinwangombe&layout=compact&theme=github-dark)
+![Kevin's GitHub Stats](https://github-readme-stats-beta-ten-36.vercel.app/api?username=kevinwangombe&show_icons=true&theme=github_dark&count_private=true)
+
+![Top Langs](https://github-readme-stats-beta-ten-36.vercel.app/api/top-langs/?username=kevinwangombe&layout=compact&theme=github_dark)
