@@ -61,10 +61,6 @@ Sushi restaurant website with EmailJS contact form integration.
 Modern product landing page with responsive design.
 `HTML` `CSS` `JavaScript`
 
-### 🤖 [AI Hub](https://github.com/kevinwangombe)
-Web-based AI assistant using OpenRouter API with coding help,
-football analysis & trivia features.
-`HTML` `CSS` `JavaScript` `OpenRouter API`
 
 ---
 
